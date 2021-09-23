@@ -1,0 +1,67 @@
+<?php
+/**
+  Project       : ActiveDNS
+  Document      : messages/source/nameserver.php
+  Document type : PHP script file
+  Created at    : 29.01.2013
+  Author        : Eugene V Chernyshev <evc22rus@gmail.com>
+  Description   : Nameserver management translation source
+*/
+return array(
+  'Nameserver ID {id} created successfully'=>'Сервер имен ID {id} создан',
+  'Nameserver ID {id} updated successfully'=>'Сервер имен ID {id} изменен',
+  'Nameserver ID {id} removed successfully'=>'Сервер имен ID {id} удален',
+  'Nameserver ID {id} disabled successfully'=>'Сервер имен ID {id} отключен',
+  'Nameserver ID {id} enabled successfully'=>'Сервер имен ID {id} включен',
+  'Nameserver was not found'=>'Сервер имен не найден',
+  'Status'=>'Статус',
+  'Hostname'=>'Имя хоста',
+  'IP Addresses'=>'IP-адреса',
+  'Public IP Addresses'=>'Публичные IP-адреса',
+  'Type'=>'Тип',
+  'Load'=>'Зоны',
+  'Pairings'=>'Связи',
+  'Security token'=>'Ключевое слово',
+  'Last statistic upload'=>'Последняя загрузка статистики',
+  'Master'=>'Мастер',
+  'Slave'=>'Слейв',
+  'Disabled'=>'Отключен',
+  'Enabled'=>'Включен',
+  'Are you sure to remove nameserver?'=>'Вы уверены, что хотите удалить сервер имен?',
+  'Are you sure to disable nameserver?'=>'Вы уверены, что хотите отключить сервер имен?',
+  'Are you sure to enable nameserver?'=>'Вы уверены, что хотите включить сервер имен?',
+  'Nameservers <small>management</small>'=>'<small>Управление</small> серверами имен',
+  'Add nameserver'=>'Добавить сервер имен',
+  'Are you sure to enable {n} nameserver(s)?'=>'Вы уверены, что хотите включить {n} серверов имен?',
+  'Are you sure to disable {n} nameserver(s)?'=>'Вы уверены, что хотите отключить {n} серверов имен?',
+  'Are you sure to delete {n} nameserver(s)?'=>'Вы уверены, что хотите удалить {n} серверов имен?',
+  'New nameserver'=>'Новый сервер имен',
+  'Update nameserver ID {id}'=>'Изменение сервера имен ID {id}',
+  'IP addresses delimited by commas or new lines'=>'IP-адреса, разделенные запятыми или переводами строк',
+  /* user aliases */
+  'Owner'=>'Владелец',
+  'Domains'=>'Домены',
+  'Master nameserver'=>'Основной сервер имен',
+  'Slave nameserver #1'=>'Дополнительный сервер №1',
+  'Slave nameserver #2'=>'Дополнительный сервер №2',
+  'Slave nameserver #3'=>'Дополнительный сервер №3',
+  'Master nameserver alias'=>'Псевдоним основного сервера',
+  'Slave nameserver #1 alias'=>'Псевдоним дополнительного сервера №1',
+  'Slave nameserver #2 alias'=>'Псевдоним дополнительного сервера №2',
+  'Slave nameserver #3 alias'=>'Псевдоним дополнительного сервера №3',
+  'Assigned nameservers'=>'Назначенные серверы имен',
+  "Nameserver's aliases"=>'Псевдонимы серверов имен',
+  'Add aliases'=>'Добавить псевдонимы',
+  'Master server'=>'Основной сервер',
+  'Master server alias'=>'Псевдоним сервера',
+  'Slave servers'=>'Доп. серверы',
+  'Slave servers aliases'=>'Доп. псевдонимы',
+  "Add nameserver's aliases"=>'Добавление псевдонимов',
+  'You have to create resource records pointed to addresses <strong>{address}</strong>'=>'Вы должны создать записи, указывающие на адреса <strong>{address}</strong>',
+  "Update nameserver's aliases"=>'Изменение псевдонимов',
+  'Are you sure to delete {n} alias(es)?'=>'Вы уверены, что хотите удалить {n} псевдоним(ов)?',
+  'Aliases removed'=>'Псевдонимы удалены',
+  'Succesfully removed {n} alias|Succesfully removed {n} aliases'=>'Удален {n} псевдоним|Удалено {n} псевдонима|Удалено {n} псевдонимов|Удалено {n} псевдонима',
+  '<strong>Warning!</strong> Changes affects {n} domain|<strong>Warning!</strong> Changes affects {n} domains'=>'<strong>Внимание!</strong> Изменения затронут {n} домен|<strong>Внимание!</strong> Изменения затронут {n} домена|<strong>Внимание!</strong> Изменения затронут {n} доменов|<strong>Внимание!</strong> Изменения затронут {n} домена',
+  "Nameserver's aliases is not available for your account type"=>'Псевдонимы серверов имен недоступны на Вашем тарифном плане',
+);

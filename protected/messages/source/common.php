@@ -1,0 +1,61 @@
+<?php
+/**
+  Project       : ActiveDNS
+  Document      : messages/source/common.php
+  Document type : PHP script file
+  Created at    : 29.01.2013
+  Author        : Eugene V Chernyshev <evc22rus@gmail.com>
+  Description   : Common messages translation source
+*/
+return array(
+  'Yes'=>'',
+  'No'=>'',
+  'yes'=>'',
+  'no'=>'',
+  'Change'=>'',
+  'Continue'=>'',
+  'Cancel'=>'',
+  'Save'=>'',
+  'Unknown'=>'',
+  'None'=>'',
+  'Refresh'=>'',
+  'Edit'=>'',
+  'Enable'=>'',
+  'Disable'=>'',
+  'Delete'=>'',
+  'Close'=>'',
+  'View'=>'',
+  'Return back'=>'',
+  'all'=>'',
+  'sign in'=>'',
+  '{n} day left|{n} days left'=>'',
+  '{n} week|{n} weeks'=>'',
+  '{n} day|{n} days'=>'',
+  'More than a day'=>'',
+  '{n} hour|{n} hours'=>'',
+  'More than a hour'=>'',
+  '{n} minute|{n} minutes'=>'',
+  'More than a minute'=>'',
+  '{n} second|{n} seconds'=>'',
+  'Not found'=>'',
+  'Serial {serial}'=>'',
+  'week(s)'=>'',
+  'day(s)'=>'',
+  'hour(s)'=>'',
+  'minute(s)'=>'',
+  'actions'=>'',
+  'mass actions'=>'',
+  'pagination'=>'',
+  'search'=>'',
+  'status'=>'',
+  'Mass action'=>'',
+  'Enable selected'=>'',
+  'Disable selected'=>'',
+  'Delete selected'=>'',
+  'default'=>'',
+  'Add'=>'',
+  'Processing...'=>'',
+  'Check selected domains info'=>'',
+  'Follow us in Twitter'=>'',
+  'Like us in Facebook'=>'',
+);

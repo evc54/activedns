@@ -1,0 +1,60 @@
+<?php
+/**
+  Project       : ActiveDNS
+  Document      : messages/source/user.php
+  Document type : PHP script file
+  Created at    : 29.01.2013
+  Author        : Eugene V Chernyshev <evc22rus@gmail.com>
+  Description   : User messages translation source
+*/
+return array(
+  'E-mail'=>'Электронная почта',
+  'Role'=>'Роль',
+  'Status'=>'Статус',
+  'Pricing plan'=>'Тарифный план',
+  'Billing cycle'=>'Платежный цикл',
+  'Paid till'=>'Оплачен до',
+  'Real name'=>'Имя',
+  'Current password'=>'Текущий пароль',
+  'New Password'=>'Новый пароль',
+  'Confirm new password'=>'Подтвердите пароль',
+  'Language'=>'Язык',
+  'Currency'=>'Валюта',
+  'Date format'=>'Формат даты',
+  'Time format'=>'Формат времени',
+  'Statistics time format'=>'Формат времени статистики',
+  'Time zone'=>'Временной пояс',
+  'Customer'=>'Клиент',
+  'Administrator'=>'Администратор',
+  'Enabled'=>'Включен',
+  'Disabled'=>'Выключен',
+  'Domains'=>'Домены',
+  'Total Domains Hosted'=>'Добавлено доменов',
+  'Active Domains'=>'Активных доменов',
+  'Are you sure to remove user account?'=>'Вы уверены, что хотите удалить учетную запись?',
+  'Are you sure to disable user account?'=>'Вы уверены, что хотите отключить учетную запись?',
+  'Are you sure to enable user account?'=>'Вы уверены, что хотите включить учетную запись?',
+  'of'=>'из',
+  'Users <small>management</small>'=>'<small>Управление</small> пользователями',
+  'Add user'=>'Добавить пользователя',
+  'Are you sure to enable {n} user(s)?'=>'Вы уверены, что хотите включить {n} пользователей?',
+  'Are you sure to disable {n} user(s)?'=>'Вы уверены, что хотите отключить {n} пользователей?',
+  'Are you sure to delete {n} user(s)?'=>'Вы уверены, что хотите удалить {n} пользователей?',
+  'New user'=>'Новый пользователь',
+  'Update user ID {id}'=>'Изменение пользователя ID {id}',
+  'Assigned master nameserver'=>'Основной сервер имен',
+  'Assigned slave nameserver #1'=>'Дополнительный сервер №1',
+  'Assigned slave nameserver #2'=>'Дополнительный сервер №2',
+  'Assigned slave nameserver #3'=>'Дополнительный сервер №3',
+  'Expiring domains notifications'=>'Оповещения об истечении срока регистрации доменов',
+  'Domain\'s alerts notifications'=>'Оповещения о тревожных событиях',
+  'Once as happened'=>'Однократно, по мере возникновения',
+  'Every hour'=>'Каждый час',
+  'Every 4 hours'=>'Каждые 4 часа',
+  'Every 12 hours'=>'Каждые 12 часов',
+  'Daily'=>'Ежедневно',
+  'Every three days'=>'Каждые 3 дня',
+  'Every five days'=>'Каждые 5 дней',
+  'Weekly'=>'Еженедельно',
+  'Disable notification'=>'Отключить оповещения',
+);

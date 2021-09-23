@@ -1,0 +1,1 @@
+<a class="modal-btn modal-create" href="<?php echo $this->createUrl('ajax',array('id'=>$id,'ajax'=>'createRR','type'=>'ns'))?>"><?php echo Yii::t('domain','Add resource record type {type}',array('{type}'=>'NS'))?></a>

@@ -1,0 +1,18 @@
+version: "3.8"
+services:
+  php:
+    container_name: php
+    build:
+      dockerfile: ./.docker/Dockerfile
+    restart: always
+    depends_on:
+      - mariadb
+    ports:
+      - 8080:80
+  mariadb:
+    container_name: db
+    image: mariadb:10
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: 123
+      MYSQL_DATABASE: activedns

@@ -1,0 +1,61 @@
+<?php
+/**
+  Project       : ActiveDNS
+  Document      : messages/source/common.php
+  Document type : PHP script file
+  Created at    : 29.01.2013
+  Author        : Eugene V Chernyshev <evc22rus@gmail.com>
+  Description   : Common messages translation source
+*/
+return array(
+  'Yes'=>'Да',
+  'No'=>'Нет',
+  'yes'=>'да',
+  'no'=>'нет',
+  'Change'=>'Изменить',
+  'Continue'=>'Продолжить',
+  'Cancel'=>'Отмена',
+  'Save'=>'Сохранить',
+  'Unknown'=>'Неизвестно',
+  'None'=>'Нет',
+  'Refresh'=>'Обновить',
+  'Edit'=>'Изменить',
+  'Enable'=>'Включить',
+  'Disable'=>'Отключить',
+  'Delete'=>'Удалить',
+  'Close'=>'Закрыть',
+  'View'=>'Смотреть',
+  'Return back'=>'Возврат',
+  'all'=>'все',
+  'sign in'=>'войти',
+  '{n} day left|{n} days left'=>'{n} день остался|{n} дня осталось|{n} дней осталось|{n} дня осталось',
+  '{n} week|{n} weeks'=>'{n} неделя|{n} недели|{n} недель|{n} недели',
+  '{n} day|{n} days'=>'{n} день|{n} дня|{n} дней|{n} дня',
+  'More than a day'=>'Больше дня',
+  '{n} hour|{n} hours'=>'{n} час|{n} часа|{n} часов|{n} часа',
+  'More than a hour'=>'Больше часа',
+  '{n} minute|{n} minutes'=>'{n} минута|{n} минуты|{n} минут|{n} минуты',
+  'More than a minute'=>'Больше минуты',
+  '{n} second|{n} seconds'=>'{n} секунда|{n} секунды|{n} секунд|{n} секунды',
+  'Not found'=>'Не найдено',
+  'Serial {serial}'=>'Версия {serial}',
+  'week(s)'=>'недель',
+  'day(s)'=>'дней',
+  'hour(s)'=>'часов',
+  'minute(s)'=>'минут',
+  'actions'=>'действия',
+  'mass actions'=>'массовые действия',
+  'pagination'=>'на странице',
+  'search'=>'поиск',
+  'status'=>'статус',
+  'Mass action'=>'Массовое действие',
+  'Enable selected'=>'Включить отмеченные',
+  'Disable selected'=>'Выключить отмеченные',
+  'Delete selected'=>'Удалить отмеченные',
+  'default'=>'по умолчанию',
+  'Add'=>'Добавить',
+  'Processing...'=>'Выполняется...',
+  'Refresh selected domains whois'=>'Обновить whois-информацию',
+  'Follow us in Twitter'=>'Читайте о нас в Твиттере',
+  'Like us in Facebook'=>'Читайте о нас в Фейсбуке',
+);
