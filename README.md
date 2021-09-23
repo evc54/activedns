@@ -4,6 +4,8 @@ The code is presented in а demonstration purposes. I can't guarantee it's even 
 
 # What is it?
 
+![image](https://user-images.githubusercontent.com/2403341/134567403-850633a5-e609-456c-a914-c5ac57003d94.png)
+
 It's a 99% copy of commercial service ActiveDNS.net, running from 2011 until 2017. It might be still operational, but a bit outdated.
 
 # How to get up and running
